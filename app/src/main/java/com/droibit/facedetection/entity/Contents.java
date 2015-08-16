@@ -27,7 +27,6 @@ public final class Contents {
             new Cosplayer("MiNe (sfmine79)", "エヴァンゲリオン","http://free-images.gatag.net/stocks/thu-01/l201208241400.jpg", License.BY_ND_2_1),
             new Cosplayer("anieto2k", "キャットウーマン","http://farm9.staticflickr.com/8453/7886887624_5d2d5f3400_b.jpg", License.BY_SA_2_1),
             new Cosplayer("MiNe (sfmine79)", "夏目友人帳","http://free-images.gatag.net/stocks/thu-01/l201209021800.jpg", License.BY_ND_2_1),
-            new Cosplayer("Hikaru Kazushime", "グリザイアの果実","http://farm9.staticflickr.com/8447/7835090584_ae8f6dabfe_b.jpg", License.BY_ND_2_1),
             new Cosplayer("Danny Choo", "末永みらい","http://farm8.staticflickr.com/7127/7098978967_84b01ed956_b.jpg", License.BY_SA_2_1),
             new Cosplayer("Danny Choo", "魔法少女まどか☆マギカ","http://farm8.staticflickr.com/7080/7098981515_dd873bfecd_b.jpg", License.BY_SA_2_1),
             new Cosplayer("MiNe (sfmine79)", "コードギアス - C.C","http://free-images.gatag.net/stocks/thu-01/l201202181400.jpg", License.BY_ND_2_1),
