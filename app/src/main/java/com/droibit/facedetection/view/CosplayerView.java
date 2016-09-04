@@ -14,7 +14,7 @@ import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public class CosplayerView extends RelativeLayout {
 

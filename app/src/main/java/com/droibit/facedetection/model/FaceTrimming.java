@@ -13,7 +13,7 @@ import com.google.android.gms.vision.face.FaceDetector;
 import com.squareup.picasso.Transformation;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public class FaceTrimming implements Transformation {
 

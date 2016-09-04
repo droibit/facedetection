@@ -3,7 +3,7 @@ package com.droibit.facedetection.entity;
 import java.io.Serializable;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public class Cosplayer implements Serializable {
 

@@ -5,7 +5,7 @@ import android.app.Application;
 import com.google.android.gms.vision.face.FaceDetector;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public class FaceApplication extends Application {
 

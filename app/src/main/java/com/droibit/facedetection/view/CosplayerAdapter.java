@@ -11,7 +11,7 @@ import com.droibit.facedetection.entity.Contents;
 import com.droibit.facedetection.entity.Cosplayer;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public class CosplayerAdapter extends ArrayAdapter<Cosplayer> {
 

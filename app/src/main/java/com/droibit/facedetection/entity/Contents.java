@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public final class Contents {
 

@@ -1,7 +1,7 @@
 package com.droibit.facedetection.entity;
 
 /**
- * @auther kumagai
+ * @author kumagai
  */
 public enum License {
     BY_2_1("http://creativecommons.org/licenses/by/2.1/jp/"),
