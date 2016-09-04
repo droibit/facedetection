@@ -18,7 +18,7 @@ public class FaceApplication extends Application {
 
         mFaceDetector = new FaceDetector.Builder(this)
                                         .setTrackingEnabled(false)
-                                        //.setMode(FaceDetector.FAST_MODE)
+                                        .setMode(FaceDetector.ACCURATE_MODE)
                                         .setLandmarkType(FaceDetector.ALL_LANDMARKS)
                                         .build();
     }

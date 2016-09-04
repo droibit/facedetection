@@ -6,6 +6,7 @@ import android.support.v4.app.ListFragment;
 import android.view.View;
 import android.widget.ListView;
 
+import com.droibit.facedetection.app.FaceApplication;
 import com.droibit.facedetection.entity.Cosplayer;
 import com.droibit.facedetection.view.CosplayerAdapter;
 
@@ -27,6 +28,15 @@ public class MainFragment extends ListFragment {
         mAdapter = new CosplayerAdapter(getActivity());
         setListAdapter(mAdapter);
         setListShown(true);
+    }
+
+    /** {@inheritDoc} */
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+
+        ((FaceApplication) getActivity().getApplication())
+                .getFaceDetector().release();
     }
 
     /** {@inheritDoc} */
